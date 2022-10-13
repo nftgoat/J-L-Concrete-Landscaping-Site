@@ -1,0 +1,29 @@
+body {
+    background-color: #F5ECE6;
+    color: #42A6AD;
+    font-family: 'Fredoka One', cursive;
+}
+
+
+nav {
+    background-color: #77F1FA !important;
+}
+nav a {
+    color: #B39179 !important;
+    font-family: 'Fredoka One', cursive;
+}
+
+.jumbotron {
+    background-color: #42A6AD !important;
+    color: #94F8FF !important;
+    margin-top: 5px;
+    padding: 50px
+}
+
+.jumbotron1 {
+    background-color: #94F8FF;
+    margin-top: 60px;
+    padding: 50px
+}
+
+
