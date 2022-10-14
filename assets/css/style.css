@@ -34,5 +34,9 @@ nav a {
     border: 3px solid #B39179;
 }
 
+#social {
+    display: flex;
+    align-items: center !important;
+}
 
 
