@@ -34,3 +34,8 @@ nav a {
     border: 3px solid #B39179;
 }
 
+@media (max-width: 576px) {
+    #logo {
+        margin-left: 33vw;
+    }
+}
