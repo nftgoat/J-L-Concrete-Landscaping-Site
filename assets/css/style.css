@@ -33,9 +33,17 @@ nav a {
     border-radius: 20px;
     border: 3px solid #B39179;
 }
+.card-body {
+    margin: 3px;
+}
+
+button {
+    border: 0px;
+}
 
 @media (max-width: 576px) {
     #logo {
         margin-left: 33vw;
+        height: 60px;
     }
 }
