@@ -40,6 +40,7 @@ nav a {
 .logo {
     border: 0px;
     margin-top: 2vh;
+    background-color: #F5ECE6;
 }
 
 @media (max-width: 576px) {
