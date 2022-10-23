@@ -37,8 +37,9 @@ nav a {
     margin: 3px;
 }
 
-button {
+.logo {
     border: 0px;
+    margin-top: 2vh;
 }
 
 @media (max-width: 576px) {
